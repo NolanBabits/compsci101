@@ -1,0 +1,4 @@
+1.Your name? Did you put it in the comments at the top of your code. That is important if you want to get credit for the assignment!
+Nolan Babits
+2.What part of software installation causes the most frustration?
+you dont want the 2 dashes before install when using pip and i had to use py -m pip install <pcakage>
